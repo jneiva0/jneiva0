@@ -5,6 +5,7 @@
   <a href="https://github.com/jneiva0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jneiva0&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jneiva0&layout=compact&langs_count=7&theme=radical"/>
+  </a>
 </div>
 
 
@@ -23,8 +24,8 @@
 
 #
 
-<div style='max-width:500px;margin:0 auto;display:flex;justify-content:space-evenly'>
-  <a style='margin-right:5px' href="https://jneiva.dev"><img src="https://img.shields.io/badge/-Portfolio-informational?style=for-the-badge" target="_blank"></a>
-  <a style='margin-right:5px' href="mailto:jneiva42@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div align="center">
+  <a href="https://jneiva.dev"><img src="https://img.shields.io/badge/-Portfolio-informational?style=for-the-badge" target="_blank"></a>
+  <a href="mailto:jneiva42@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jneiva0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
