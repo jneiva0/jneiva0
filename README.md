@@ -2,7 +2,7 @@
 
 Self-taught and curious. I have a natural drive to explore and learn new things. Constantly experimenting and finding new ways to improve things.
 
-My current interest is AI, leveraging LLMs and agent chains to improve people lives.
+Right now, I'm into exploring what cool things i can build leveraging LLMs and agent chains
 
 ---
 
