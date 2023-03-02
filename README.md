@@ -1,4 +1,9 @@
-### Oi, eu sou o  [João Neiva](https://jneiva.dev) 👋 
+### I'm [João Neiva](https://jneiva.dev) 👋 
+
+Self-taught and curious. I have a natural drive to explore and learn new things. Constantly experimenting and finding new ways to improve things.
+
+My current interest is AI, leveraging LLMs and agent chains to improve people lives.
+
 ---
 
 <div align="center">
