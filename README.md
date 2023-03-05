@@ -8,8 +8,8 @@ Right now, I'm into exploring what cool things I can build leveraging LLMs and a
 
 <div align="center">
   <a href="https://github.com/jneiva0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jneiva0&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jneiva0&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://readme-stats-jneiva.vercel.app/api?username=jneiva0&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://readme-stats-jneiva.vercel.app/api/top-langs/?username=jneiva0&layout=compact&langs_count=7&theme=radical"/>
   </a>
 </div>
 
