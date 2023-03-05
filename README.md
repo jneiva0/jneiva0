@@ -5,13 +5,9 @@ Self-taught and curious. I have a natural drive to explore and learn new things.
 Right now, I'm into exploring what cool things I can build leveraging LLMs and agent chains
 
 ---
+![Joao's GitHub stats](https://readme-stats-jneiva.vercel.app/api?username=jneiva0&show_icons=true&theme=rose_pine&hide=issues&include_all_commits=true&count_private=true)
+![Most used Langs](https://readme-stats-jneiva.vercel.app/api/top-langs/?username=jneiva0&layout=compact&langs_count=7&theme=rose_pine)
 
-<div align="center">
-  <a href="https://github.com/jneiva0">
-  <img height="180em" src="https://readme-stats-jneiva.vercel.app/api?username=jneiva0&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://readme-stats-jneiva.vercel.app/api/top-langs/?username=jneiva0&layout=compact&langs_count=7&theme=radical"/>
-  </a>
-</div>
 
 
 <div style="display: inline_block">
